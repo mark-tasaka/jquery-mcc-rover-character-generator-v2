@@ -1,0 +1,2 @@
+# jquery-mcc-rover-character-generator-v2
+An updated version of the JavaScript Mutant Crawl Classics Rover Character Class random character generator.  While the original Rover Character Generator used JavaScripts DOM, this current iteration of the generator utilizes jQuery to fetch data.  The Rover Character generator produces randomly generated pen and paper characters for Goodman Games' Mutant Crawl Classic role-playing game. 
